@@ -1,4 +1,4 @@
-# Skeleton JAMStack site generator (Zero configuration)
+# Skeleton JAMStack site generator
 
 Feel free to take the code to make your own website. I made this for myself, I wanted a skeleton/boilerplate/start-kit for creating small static sites.
 
